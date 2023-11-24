@@ -1,6 +1,6 @@
 # to initialise a list named 'mylist'
 mylist = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1, 1, 2]
-print("The list initially is as:", mylist)
+print("The list initially ia as:", mylist)
 # to print the length of that list in 'length'
 print("The length of the list is:", len(mylist))
 # to count the occurrence of a particular element (e.g. 1)
@@ -53,4 +53,4 @@ n = len(l1)
 for i in range(n):
     print(l1[i], "is at +ve index", i, "and is at -ve index", i-n)
 # end
-# visit my GitHub repository for this code. 
+# visit my GitHub repository for this code. link = https://github.com/xbr-dr/Python-PGIT-SPC/blob/main/list_actoins.py
