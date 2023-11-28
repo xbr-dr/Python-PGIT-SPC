@@ -1,5 +1,5 @@
 set1 = {10, 20, 10, 20, 30}
-length = len(set1)
+length = len(set1)  # To get the length of set
 print(length)
 
 # Creation of Set objects
@@ -15,7 +15,7 @@ print(s2)
 s3 = set(range(5))
 print(s3)
 
-# If we take s={},It is treated as dictionary, not as empty set, e.g.,
+# If we take s={}, It is treated as dictionary, not as an empty set, e.g.,
 s4 = {}
 print(s4)
 print(type(s4))
@@ -52,3 +52,4 @@ s = {10, 20, 30}
 print(s)
 s.clear()  # To remove all elements from the Set.
 print(s)
+# Wait for mathematical operations which will be uploaded as part 2
