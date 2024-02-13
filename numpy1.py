@@ -52,4 +52,3 @@ print(np.cross(a, b))
 # we can use more methods and functions from NumPy....
 # visit the GitHub repository for more programs and material
 # Xbr_Dr
-# https://github.com/xbr-dr/Python-PGIT-SPC/main/numpy1.py
